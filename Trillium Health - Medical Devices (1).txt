@@ -1,0 +1,8 @@
+| Device Name              | Model Number | IP Address       | Vulnerability ID | CVE Details            |
+|--------------------------|--------------|------------------|------------------|-------------------------|
+| Infusion Pump            | IP-1000      | 192.168.1.10     | CVE-2024-0001    | Buffer Overflow Exploit |
+| Pacemaker                | PMX-200      | 10.0.0.15        | CVE-2023-5678    | Remote Code Execution   |
+| Patient Monitoring Unit  | PMU-3000     | 172.16.0.22      | CVE-2024-2345    | Weak Default Passwords  |
+
+Trillium Health Partners
+VHJpbGxpdW0gSGVhbHRoIFBhcnRuZXJzIC0gTWVkaWNhbCBEZXZpY2Vz
